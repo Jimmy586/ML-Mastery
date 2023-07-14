@@ -54,7 +54,7 @@ async function main() {
     }
   };
 
-  await makeCommit(10);
+  await makeCommit(10000);
 }
 
 main();
